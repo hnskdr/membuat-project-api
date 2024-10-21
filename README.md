@@ -27,3 +27,23 @@
 
 ### Setelah ada data yang dihapus
 ![image-7.png](image-7.png)
+
+# Table Buku
+## Method Post
+![image-8.png](image-8.png)
+
+## Method Get
+![image-9.png](image-9.png)
+
+## Pencarian berdasarkan kategori
+![image-10.png](image-10.png)
+
+## Pencarian berdasarkan judul
+![image-11.png](image-11.png)
+
+# Ngrok
+![image-12.png](image-12.png)
+
+![image-13.png](image-13.png)
+
+![image-14.png](image-14.png)
